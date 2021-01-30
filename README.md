@@ -20,3 +20,5 @@ as part of the "TRAIN.csv" file provided for training. No additional data may be
 The test set consists of "TEST.csv" for all the same attributes as "TRAIN.csv" except for the target column. There is an additional "sample_submission.csv" provided to give an example submission
 
 ipynb was coded on google collab since hyperparameter tuning and voting classifier require higher specs
+
+ML_Insurance_GBMVoting code gives better accuracy(esp gbm2) also use VIF for variable selection not part of these notebooks
